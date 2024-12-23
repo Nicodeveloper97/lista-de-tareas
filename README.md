@@ -16,12 +16,13 @@ Esta es una aplicación de lista de tareas construida con React, TypeScript y Ta
 
 1. Clona este repositorio:
    
-   git clone https://github.com/tu-usuario/mi-app-de-tareas.git
+   git clone https://github.com/Nicodeveloper97/lista-de-tareas.git
+
    
 
 2. Navega al directorio del proyecto:
    
-   cd mi-app-de-tareas
+   cd lista-de-tareas
    
 
 3. Instala las dependencias:
