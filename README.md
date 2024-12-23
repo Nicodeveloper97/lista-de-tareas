@@ -15,39 +15,39 @@ Esta es una aplicación de lista de tareas construida con React, TypeScript y Ta
 ## Instalación
 
 1. Clona este repositorio:
-   \`\`\`
+   
    git clone https://github.com/tu-usuario/mi-app-de-tareas.git
-   \`\`\`
+   
 
 2. Navega al directorio del proyecto:
-   \`\`\`
+   
    cd mi-app-de-tareas
-   \`\`\`
+   
 
 3. Instala las dependencias:
-   \`\`\`
+   
    npm install
-   \`\`\`
+   
 
 
 Para iniciar la aplicación en modo de desarrollo, ejecuta:
 
-\`\`\`
+
 npm start
-\`\`\`
+
 
 
 ## Decisiones de diseño y arquitectura
 
 
 **Arquitectura de componentes**: 
-   - \`App.tsx\`: Componente principal que maneja el estado global y la composición de la aplicación.
-   - \`Layout.tsx\`: Gestiona la estructura general de la aplicación.
-   - \`Sidebar.tsx\`: Maneja la visualización y selección de categorías.
-   - \`Lista.tsx\`: Renderiza la lista de tareas.
-   - \`Tarea.tsx\`: Representa una tarea individual.
-   - \`AgregarTarea.tsx\`: Formulario para agregar nuevas tareas.
-   - \`Buscador.tsx\`: Permite la búsqueda de tareas.
+   - App.tsx: Componente principal que maneja el estado global y la composición de la aplicación.
+   - Layout.tsx: Gestiona la estructura general de la aplicación.
+   - Sidebar.tsx: Maneja la visualización y selección de categorías.
+   - Lista.tsx: Renderiza la lista de tareas.
+   - Tarea.tsx: Representa una tarea individual.
+   - AgregarTarea.tsx: Formulario para agregar nuevas tareas.
+   - Buscador.tsx: Permite la búsqueda de tareas.
 
 
 **Diseño responsivo**: La aplicación está diseñada para ser completamente responsiva, adaptándose a diferentes tamaños de pantalla.
